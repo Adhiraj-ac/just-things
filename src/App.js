@@ -7,7 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is depo project for testing purposes.
+          <br />
+          It is a simple React application that serves as a template.
+          <br />
+          You can modify it to suit your needs.
         </p>
         <a
           className="App-link"
